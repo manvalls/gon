@@ -1,0 +1,22 @@
+{
+  "name": "gon",
+  "version": "1.0.0",
+  "description": "A scriptwriter made using ES6 proxies",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "u-test": "^3.7.5"
+  },
+  "scripts": {
+    "test": "u-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/gon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/gon/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@vlrz.es>",
+  "license": "LGPL-3.0"
+}
