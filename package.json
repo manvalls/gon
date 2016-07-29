@@ -1,6 +1,6 @@
 {
   "name": "gon",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A scriptwriter made using ES6 proxies",
   "main": "main.js",
   "dependencies": {},
